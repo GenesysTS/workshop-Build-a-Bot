@@ -1,5 +1,6 @@
 name: Update Hugo Template for GTS
 on: [push]
+#Todo: Share github actions
 jobs:
   build:
     runs-on: ubuntu-latest
